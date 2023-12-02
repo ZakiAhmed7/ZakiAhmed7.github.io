@@ -213,6 +213,7 @@ body {
     width: 170px;
     display: flex;
     justify-content: space-between;
+    margin-top: 0;
 }
 
 .home-social::before {
